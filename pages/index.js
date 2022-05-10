@@ -28,7 +28,7 @@ export default function Home() {
         >
           Powered by{' '}
           <span className={styles.logo}>
-            <a href="https://spheron.network/" target="_blank">Spheron</a>
+            <a href="https://spheron.network/" rel="noreferrer" target="_blank">Spheron</a>
           </span>
         </a>
       </footer>
